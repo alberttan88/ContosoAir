@@ -1,5 +1,4 @@
-[![Build Status](https://dev.azure.com/alberttansg/Contoso/_apis/build/status/alberttan88.ContosoAir?branchName=master)](https://dev.azure.com/alberttansg/Contoso/_build/latest?definitionId=5&branchName=master)
-
+[![Build Status](https://dev.azure.com/alberttanGitHub/ContosoAir/_apis/build/status/alberttan88.ContosoAir?branchName=master)](https://dev.azure.com/alberttanGitHub/ContosoAir/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
